@@ -20,11 +20,11 @@
 
 ### User
 
-| Atribut  | Tipe Data | Contoh |
-| -------- | --------- | ------ |
-| id       | varchar   | A1     |
-| username | string    | vinna  |
-| password | varchar   | vi123  |
+| Atribut  | Tipe Data | Contoh  |
+| -------- | --------- | --------|
+| id       | varchar   | A1      |
+| username | string    | Vinnalia|
+| password | varchar   | vi123   |
 
 ### Income
 
@@ -38,14 +38,16 @@
 | Atribut  | Tipe Data | Contoh |
 | -------- | --------- | ------ |
 | id       | varchar   | C1     |
-| nama     | varchar   | Makan  |
+| nama     | varchar   | Ngekos |
 
 ### Expenses
 
-| Atribut     | Tipe Data | Contoh |
-| ----------- | --------- | ------ |
-| id          | varchar   | D1     |
-| id_aktivitas| varchar   | C1     |
-| nominal     | integer   | 150000 |
+| Atribut     | Tipe Data | Contoh      |
+| ----------- | --------- | ----------  |
+| id          | varchar   | D1          |
+| id_aktivitas| varchar   | C1          |
+| tanggal     | date      | 2022-09-04  |
+| nominal     | integer   | 43000       |
 
 ## UX Wireframe
+![3](https://user-images.githubusercontent.com/112877296/189534920-704cbaa9-b017-4a09-981c-74ba77c09496.png)
