@@ -11,7 +11,7 @@
 
 ## Use Case
 * User bisa melakukan registrasi mandiri dan login
-* User bisa menambah nama aktivitas yang dilakukan per harinya
+* User bisa menambah nama aktivitas
 * User bisa menginput income yang akan digunakan
 * User bisa melihat jumlah expenses yang dikeluarkan
 * User bisa melihat history pembelian per aktivitas
