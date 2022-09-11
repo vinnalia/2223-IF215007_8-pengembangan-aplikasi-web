@@ -1,6 +1,6 @@
 # PROPOSAL
 
-## Aplikasi FinCords
+## Aplikasi FINCORDS
 * Aplikasi pencatat keuangan atau _financial records_ untuk mahasiswa
 
 ## Permasalahan
