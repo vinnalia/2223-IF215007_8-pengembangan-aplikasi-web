@@ -4,7 +4,7 @@
 * Aplikasi pencatat keuangan atau _financial records_ untuk mahasiswa
 
 ## Permasalahan
-* Mahasiswa yang ngekost dan merantau mengalami kesulitan dalam mencatat keuangannya untuk berhemat sampai akhir bulan
+* Mahasiswa yang ngekost dan merantau mengalami kesulitan dalam mencatat keuangannya untuk berhemat
 
 ## Rancangan Solusi
 * Aplikasi pencatat keuangan yang terdapat income, expenses, dan history pembelian di setiap aktivitas
@@ -50,4 +50,8 @@
 | nominal     | integer   | 43000       |
 
 ## UX Wireframe
+![1](https://user-images.githubusercontent.com/112877296/189535652-8a3e4fd3-c762-47f8-b03e-a2ee0f9e9ceb.png)
+
+![2](https://user-images.githubusercontent.com/112877296/189535655-195021cf-051b-496b-8c18-2f6f22a438e2.png)
+
 ![3](https://user-images.githubusercontent.com/112877296/189534920-704cbaa9-b017-4a09-981c-74ba77c09496.png)
