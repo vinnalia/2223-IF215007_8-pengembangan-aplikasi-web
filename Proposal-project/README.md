@@ -1,57 +1,36 @@
 # PROPOSAL
 
-## Aplikasi FINCORDS
-* Aplikasi pencatat keuangan atau _financial records_ untuk mahasiswa
+## Aplikasi Tourism
+* Aplikasi untuk mahasiswa mencari informasi tempat wisata untuk liburan
 
 ## Permasalahan
-* Mahasiswa yang ngekost dan merantau mengalami kesulitan dalam mencatat keuangannya untuk berhemat
+* Mahasiswa yang sibuk menugas, sekali-kali harus butuh liburan agar tidak stress
 
 ## Rancangan Solusi
-* Aplikasi pencatat keuangan yang terdapat income, expenses, dan history pembelian di setiap aktivitas
+* Aplikasi pencari informasi tempat wisata, di dalamnya terdapat menu home dan about
 
 ## Use Case
-* User bisa melakukan registrasi mandiri dan login
-* User bisa menambah nama aktivitas
-* User bisa menginput income yang akan digunakan
-* User bisa melihat jumlah expenses yang dikeluarkan
-* User bisa melihat history pembelian per aktivitas
+* User bisa melakukan pencarian di search bar
+* User bisa melihat result dari apa yang dicari
+* User bisa melihat detail wisata yang di klik
+* User bisa melihat tentang aplikasi tourism
 
 ## Struktur Data
 
-### User
+### tempatwisata
 
-| Atribut  | Tipe Data | Contoh  |
-| -------- | --------- | --------|
-| id       | varchar   | A1      |
-| username | string    | Vinnalia|
-| password | varchar   | vi123   |
+| Atribut    | Tipe Data  | Contoh              |
+| --------   | ---------  | --------            |
+| id         | varchar    | A1                  |
+| namawisata | varchar    | Ciwidey Kebun Teh   |
+| lokasi     | varchar    | Bandung, Jawa Barat |
 
-### Income
-
-| Atribut  | Tipe Data | Contoh |
-| -------- | --------- | ------ |
-| id       | varchar   | B1     |
-| nominal  | integer   | 300000 |
-
-### Aktivitas
-
-| Atribut  | Tipe Data | Contoh |
-| -------- | --------- | ------ |
-| id       | varchar   | C1     |
-| nama     | varchar   | Ngekos |
-
-### Expenses
-
-| Atribut     | Tipe Data | Contoh      |
-| ----------- | --------- | ----------  |
-| id          | varchar   | D1          |
-| id_aktivitas| varchar   | C1          |
-| tanggal     | date      | 2022-09-04  |
-| nominal     | integer   | 43000       |
 
 ## UX Wireframe
-![1](https://user-images.githubusercontent.com/112877296/189535652-8a3e4fd3-c762-47f8-b03e-a2ee0f9e9ceb.png)
 
-![2](https://user-images.githubusercontent.com/112877296/189535655-195021cf-051b-496b-8c18-2f6f22a438e2.png)
+* ![1](https://user-images.githubusercontent.com/112877296/197399305-46c8e48e-9e96-49c7-b8ff-27ea8724fb58.jpeg)
 
-![3](https://user-images.githubusercontent.com/112877296/189534920-704cbaa9-b017-4a09-981c-74ba77c09496.png)
+* ![2](https://user-images.githubusercontent.com/112877296/197399256-63e2667d-4c3e-4819-87b2-462bd98773ce.jpeg)
+
+
+
