@@ -1,6 +1,8 @@
-# CERTIFICATE INTERNATIONAL WEBINAR SERIES 2
+# WEBINAR
 
-## [e-Certificate Series 2 Vinnalia Mega Utami[30].pdf](https://github.com/vinnalia/2223-IF215007_8-pengembangan-aplikasi-web/files/9970698/e-Certificate.Series.2.Vinnalia.Mega.Utami.30.pdf)
+## CERTIFICATE INTERNATIONAL WEBINAR SERIES 2
+
+### [e-Certificate Series 2 Vinnalia Mega Utami[30].pdf](https://github.com/vinnalia/2223-IF215007_8-pengembangan-aplikasi-web/files/9970698/e-Certificate.Series.2.Vinnalia.Mega.Utami.30.pdf)
 
 ### 🗓️ Tuesday, November 8, 2022
 ### 🕑 12.45 – 16.00 WIB
