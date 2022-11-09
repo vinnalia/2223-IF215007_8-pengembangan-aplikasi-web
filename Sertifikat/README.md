@@ -6,8 +6,8 @@
 ### 🕑 12.45 – 16.00 WIB
 
 ### Speakers:
-* 1) Prof. Dr. Ir. Bambang Riyanto Trilaksono (Institut Teknologi Bandung)
+* Prof. Dr. Ir. Bambang Riyanto Trilaksono (Institut Teknologi Bandung)
 Topic: "Artificial Intelegence and robotics"
 
-* 2) Dr. Laurent Bobelin (Institut National Sciences Appliquees Centre Val de Loire, France)
+* Dr. Laurent Bobelin (Institut National Sciences Appliquees Centre Val de Loire, France)
 Topic: "Security and High-Performance Computing"
