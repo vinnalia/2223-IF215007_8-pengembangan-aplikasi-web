@@ -3,7 +3,7 @@
 Assessments| Bukti Screenshot
 ---|---
 Git installation | ![Screenshot (225)](https://user-images.githubusercontent.com/112877296/209046688-f6395ac7-04f1-4c1d-9da0-54d5af39fe04.png)
-Github project initialization | 
+Github project initialization | ![Screenshot (227)](https://user-images.githubusercontent.com/112877296/209048809-fa8d0b29-afef-4c9d-964b-3ae5aa44d3c6.png)
 Hoppscotch / Postman access | ![Screenshot (221)](https://user-images.githubusercontent.com/112877296/209043401-c3f091d0-a71c-46c3-91a8-f3d4b05d5a3d.png)
 Javascript & Composer installation & hello world | 
 PostgreSQL / MySQL | ![Screenshot (223)](https://user-images.githubusercontent.com/112877296/209044504-2f6a36ac-d44b-41e3-8609-0da42cb24750.png)
