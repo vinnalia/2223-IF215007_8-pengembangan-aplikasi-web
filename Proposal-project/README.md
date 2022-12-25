@@ -7,7 +7,7 @@
 * Mahasiswa yang sibuk menugas, sekali-kali harus butuh liburan agar tidak stress
 
 ## Rancangan Solusi
-* Aplikasi pencari informasi tempat wisata, di dalamnya terdapat menu home dan about
+* Aplikasi pencari informasi tempat wisata, di dalamnya terdapat menu wisata dan about
 
 ## Use Case
 * User bisa melakukan pencarian di search bar
@@ -17,13 +17,23 @@
 
 ## Struktur Data
 
-### tempatwisata
+### list
 
 | Atribut    | Tipe Data  | Contoh              |
 | --------   | ---------  | --------            |
-| id         | varchar    | A1                  |
-| namawisata | varchar    | Ciwidey Kebun Teh   |
+| id         | varchar    | uuid                |
+| nama       | varchar    | Ciwidey Kebun Teh   |
 | lokasi     | varchar    | Bandung, Jawa Barat |
+| foto       | varchar    | jpg/png             |
+
+### detail
+
+| Atribut    | Tipe Data  | Contoh              |
+| --------   | ---------  | --------            |
+| id         | varchar    | uuid                |
+| idlist     | varchar    | uuid                |
+| deskripsi  | varchar    | Ciwidey merupakan salah satu tempat wisata di kota Bandung |
+| foto       | varchar    | jpg/png             |
 
 
 ## UX Wireframe
