@@ -17,7 +17,7 @@ Nginx / Apache web server installation & operation (5) | ![Screenshot (232)](htt
 Cpanel operation (4) |
 Domain registration (1) |
 HTML Responsive Layout with Media Query & Flexbox (3) | ![Screenshot (234)](https://user-images.githubusercontent.com/112877296/209462091-bab2d538-734b-435e-8422-6e1e34861264.png) ![Screenshot (237)](https://user-images.githubusercontent.com/112877296/209462099-c9420f32-adda-4156-a9c7-004581028b5a.png)
-Javascript Data Transformation (4) |
+Javascript Data Transformation (4) | 
 Browser API - Event Handling, Local Storage, Element manipulation (5) |
 HTTP GET & POST using Form Action and Fetch API (5) |
 PHP DB - Dynamic Web Page (5) |
