@@ -12,7 +12,7 @@ PostgreSQL / MySQL (2) | ![Screenshot (223)](https://user-images.githubuserconte
 DBeaver installation DB connection (2) | ![Screenshot (222)](https://user-images.githubusercontent.com/112877296/209043947-0f459d3b-9ef0-4bae-9fd7-b00ce45a7dc7.png)
 MobaXterm installation & SSH connection (2) | ![Screenshot (224)](https://user-images.githubusercontent.com/112877296/209044991-5b391573-438e-48fa-8902-22e91df07c63.png)
 NodeJS & NPM installation, operation & hello world (4) | ![Screenshot (231)](https://user-images.githubusercontent.com/112877296/209459778-011826bd-67b4-4860-a34f-3f33ea881812.png)
-Linux server operation (5) |
+Linux server operation (5) | ![Screenshot (248)](https://user-images.githubusercontent.com/112877296/209466867-74b5ecf1-a898-4611-9ae1-ce91085eb883.png)
 Nginx / Apache web server installation & operation (5) | ![Screenshot (232)](https://user-images.githubusercontent.com/112877296/209460606-8b710580-1794-457c-8097-ed6043397810.png)
 Cpanel operation (4) |
 Domain registration (1) |
