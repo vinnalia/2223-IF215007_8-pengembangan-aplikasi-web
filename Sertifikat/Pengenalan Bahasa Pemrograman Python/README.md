@@ -1,3 +1,3 @@
 # Dicoding Developer Coaching #75 : Machine Learning | Pengenalan Bahasa Pemrograman Python
 
-## [dicoding-developer-coaching-75-machine-learning-pengenalan-bahasa-pemrograman-python-certificate[35].pdf](https://github.com/vinnalia/2223-IF215007_8-pengembangan-aplikasi-web/files/10299706/dicoding-developer-coaching-75-machine-learning-pengenalan-bahasa-pemrograman-python-certificate.35.pdf)
+## ![Screenshot (243)](https://user-images.githubusercontent.com/112877296/209463631-c415bd23-41c0-4064-9956-69c65e8a886f.png)
