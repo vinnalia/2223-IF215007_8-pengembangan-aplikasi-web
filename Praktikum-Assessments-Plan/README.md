@@ -24,7 +24,7 @@ PHP DB - Dynamic Web Page (5) |
 PHP DB - Web Service (5) |
 OOP-based PHP Project using Composer (4) |
 Deploy PHP Project to Cpanel (4) |
-HTML Responsive Layout with Bootstrap (3) | ![Screenshot (235)](https://user-images.githubusercontent.com/112877296/209461370-a9e91bc5-873f-4e27-aacc-ca7e2a180f0c.png)
+HTML Responsive Layout with Bootstrap (3) |
 Single Page App with React & React-router (12) | ![Screenshot (234)](https://user-images.githubusercontent.com/112877296/209461049-9692aae6-788f-442f-8007-5982958590b8.png)
 Dynamic Web Page using Laravel (9) |
 Web Service using Slim (6) |
