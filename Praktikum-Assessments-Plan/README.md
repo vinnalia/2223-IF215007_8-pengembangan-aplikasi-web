@@ -64,7 +64,18 @@
 * ![Screenshot (263)](https://user-images.githubusercontent.com/112877296/209974217-647e78e8-0253-496d-bed1-1040282ed1a6.png)
 
 ### Deploy PHP Project to Cpanel (4)
-* 
+* Login ke cpanel, lalu klik menu file manager
+ ![logincpanel](https://user-images.githubusercontent.com/112877296/210052401-8700947e-1d6a-46e7-b58d-f3fce9c10249.png)
+* Di dalam file manager, klik folder "public_html"
+* Lalu klik tombol upload di menu utama file manager
+* Nanti akan di arahkan ke tab baru, akan muncul tampilan di bawah ini, lalu klik "Select File" atau bisa di drag file yang ingin di upload
+![select-file-file-manager](https://user-images.githubusercontent.com/112877296/210052854-161be95c-e9f3-49a5-9e90-d8ab8e18d895.png)
+
+* Setelah memilih file untuk di upload, secara otomatis akan tampil progress bar seperti tampak pada gambar dibawah ini.
+![upload-complete](https://user-images.githubusercontent.com/112877296/210052839-f6e59251-734f-4a65-875d-5897a5b58fad.png)
+
+* Jika progress bar telah penuh, itu artinya file telah terupload dengan sempurna.
+* Silahkan extract file .zip yang di upload agar file website dalam folder bisa terbaca disisi server
 
 ### HTML Responsive Layout with Bootstrap (3)
 * 
