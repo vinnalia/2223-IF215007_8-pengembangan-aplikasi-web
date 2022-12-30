@@ -78,7 +78,8 @@
 * Silahkan extract file .zip yang di upload agar file website dalam folder bisa terbaca disisi server
 
 ### HTML Responsive Layout with Bootstrap (3)
-* 
+* ![Screenshot (273)](https://user-images.githubusercontent.com/112877296/210095704-86c4d77c-e77f-4cf2-8b25-f6f304e7e4a9.png)
+* ![Screenshot (274)](https://user-images.githubusercontent.com/112877296/210095728-1b096ab9-6a79-443a-9fda-2b4dcdd039dd.png)
 
 ### Single Page App with React & React-router (12)
 * ![Screenshot (234)](https://user-images.githubusercontent.com/112877296/209461049-9692aae6-788f-442f-8007-5982958590b8.png)
