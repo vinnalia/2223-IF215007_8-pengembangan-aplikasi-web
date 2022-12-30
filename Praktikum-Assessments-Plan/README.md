@@ -51,13 +51,14 @@
 * ![Screenshot (245)](https://user-images.githubusercontent.com/112877296/209465584-63f8bee7-f329-4899-bbfb-3062936ad033.png) ![Screenshot (247)](https://user-images.githubusercontent.com/112877296/209465587-771d1219-6dd0-45ee-be5e-1f5f9e1c8696.png)
 
 ### HTTP GET & POST using Form Action and Fetch API (5)
-* 
+* ![Screenshot (267)](https://user-images.githubusercontent.com/112877296/210048486-61044ded-95eb-4d9a-a42c-eb802d2fa9c5.png)
 
 ### PHP DB - Dynamic Web Page (5)
 * 
 
 ### PHP DB - Web Service (5)
-* 
+* ![Screenshot (265)](https://user-images.githubusercontent.com/112877296/210047650-4244a674-04a7-4a27-aeb3-7abf2b9901b2.png)
+* ![Screenshot (266)](https://user-images.githubusercontent.com/112877296/210047666-6d0f1a9c-a9e4-42eb-90ab-01eb3728b516.png)
 
 ### OOP-based PHP Project using Composer (4)
 * ![Screenshot (263)](https://user-images.githubusercontent.com/112877296/209974217-647e78e8-0253-496d-bed1-1040282ed1a6.png)
