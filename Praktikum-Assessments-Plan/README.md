@@ -1,5 +1,7 @@
 # VINNALIA MEGA UTAMI - 1207050127
 
+## [Assessments](https://github.com/insanalamin/2223-IF215007_8-pengembangan-aplikasi-web#readme)
+
 ## SCREENSHOT ASSESSMENTS PLAN - WORKSHOP CLASS
 
 ### Git installation (1)
@@ -11,8 +13,8 @@
 ### Hoppscotch / Postman access (1)
 * ![Screenshot (221)](https://user-images.githubusercontent.com/112877296/209043401-c3f091d0-a71c-46c3-91a8-f3d4b05d5a3d.png)
 
-### NodeJS & NPM installation & hello world (2)
-* ![Screenshot (231)](https://user-images.githubusercontent.com/112877296/209630489-a1a7f6e7-9c3f-4a68-b63f-0191083b34f8.png)
+### PHP & Composer installation & hello world (2)
+* ![Screenshot (276)](https://user-images.githubusercontent.com/112877296/210132317-16722387-addd-40c3-9b55-7900c052dc45.png)
 
 ### PostgreSQL / MySQL (2)
 * ![Screenshot (223)](https://user-images.githubusercontent.com/112877296/209044504-2f6a36ac-d44b-41e3-8609-0da42cb24750.png)
@@ -86,6 +88,16 @@
 ### Dynamic Web Page using Laravel (9)
 
 ### Web Service using Slim (6)
+* Membuat webservice dengan slim framework dapat dengan cara berikut:
+  * install xampp
+  * konfigurasi apache untuk mengaktifkan mod_rewrite, dan klik Apache(http.conf)
+    ![xampp-control-panel-http-conf](https://user-images.githubusercontent.com/112877296/210132640-6ab35bbc-4380-4a72-9860-fd28bc5cd25e.jpg)
+  * pada http.conf hilangkan tanda pagar(#) di LoadModule rewrite_module modules/mod_rewrite.s dan dalam <Directory “C:/xampp/htdocs”>..</Directory> ubah AllowOverride none menjadi AllowOverride all.
+  * klik start pada apache dan mysql
+  * untuk menginstall Slim, kita gunakan composer sebagai Dependency Manager for PHP
+  * buat folder untuk project kita dengan nama slimteknorial di htdocs yang terletak di C:\XAMPP\htdocs
+  * klik kanan pada folder slimteknorial dan pilih use composer here
+  * untuk menginstall slim, masukan kode `composer require slim/slim "^3.0"` di CMD yang sudah terbuka
 
 ### News Site using Wordpress (5)
 * Pilih domain, host web, dan instal WordPress
