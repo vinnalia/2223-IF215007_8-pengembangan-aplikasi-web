@@ -54,7 +54,6 @@
 * ![Screenshot (267)](https://user-images.githubusercontent.com/112877296/210048486-61044ded-95eb-4d9a-a42c-eb802d2fa9c5.png)
 
 ### PHP DB - Dynamic Web Page (5)
-* 
 
 ### PHP DB - Web Service (5)
 * ![Screenshot (265)](https://user-images.githubusercontent.com/112877296/210047650-4244a674-04a7-4a27-aeb3-7abf2b9901b2.png)
@@ -85,10 +84,16 @@
 * ![Screenshot (234)](https://user-images.githubusercontent.com/112877296/209461049-9692aae6-788f-442f-8007-5982958590b8.png)
 
 ### Dynamic Web Page using Laravel (9)
-* 
 
 ### Web Service using Slim (6)
-* 
 
 ### News Site using Wordpress (5)
-* 
+* Pilih domain, host web, dan instal WordPress
+  * Dalam memilih nama domain harus nama yang mudah diingat, karena nama ini mewakili situs berita milik kita
+* Menemukan tema berita WordPress yang sesuai
+  * Di dalam wordpress ada menu tema yang digunakan untuk mengatur tampilan situs web berita
+  * Kita dapat meilhat tema yang dirancang untuk situs web berita dengan cara membuka direktori, lalu menekan tombol filter fitur dibagian atas, dan mencentang opsi berita dibawah bagian subjek, lalu menjalankan pencarian
+  ![news-themes](https://user-images.githubusercontent.com/112877296/210130358-725f26ac-7836-4561-80f2-457756248186.png)
+* Menggunakan plugin untuk menambahkan fungsionalitas yang lebih besar
+  * Di wordpress dapat memanfaatkan plugin WP News and Scrolling Widgets untuk menambahkan bagian khusus di situs untuk artikel berita dan menampilkan artikel dengan cara yang menarik
+  ![banner-772x250](https://user-images.githubusercontent.com/112877296/210130516-7a6970ae-0a7d-4945-bba2-3780cd0dbc98.png)
