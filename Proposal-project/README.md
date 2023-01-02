@@ -1,46 +1,60 @@
 # PROPOSAL
 
-## Aplikasi Tourism
-* Aplikasi untuk mahasiswa mencari informasi tempat wisata untuk liburan
+## Aplikasi Vika
+* Aplikasi untuk mahasiswa menyusun proses tugas yang akan dikerjakan
 
 ## Permasalahan
-* Mahasiswa yang sibuk menugas, sekali-kali harus butuh liburan agar tidak stress
+* Mahasiswa yang banyak tugas, kadang bingung mulai mengerjakan tugasnya darimana dulu
 
 ## Rancangan Solusi
-* Aplikasi pencari informasi tempat wisata, di dalamnya terdapat menu wisata dan about
+* Aplikasi penyusun proses pengerjaan tugas yang akan dilakukan agar lebih terstruktur
 
 ## Use Case
-* User bisa melakukan pencarian di search bar
-* User bisa melihat result dari apa yang dicari
-* User bisa melihat detail wisata yang di klik
-* User bisa melihat tentang aplikasi tourism
+* User bisa sign up dan login menggunakan username dan password
+* User bisa membuat board berjudul nama kegiatan
+* User bisa menambah section di dalam board kegiatan nya
+* User bisa menambah detail proses di dalam tiap section
+* User bisa menjadikan board kegiatannya menjadi favorite
+* User bisa menghapus board kegiatan dan section
 
 ## Struktur Data
 
-### list
+### boards
 
-| Atribut    | Tipe Data  | Contoh              |
-| --------   | ---------  | --------            |
-| id         | varchar    | uuid                |
-| nama       | varchar    | Ciwidey Kebun Teh   |
-| lokasi     | varchar    | Bandung, Jawa Barat |
-| foto       | varchar    | jpg/png             |
+| Atribut    | Tipe Data  |
+| --------   | ---------  |
+| _id        | ObjectId   |
+| User       | ObjectId   | 
+| icon       | string     |
+| title      | string     |
+| description| string     |
 
-### detail
+### sections
 
-| Atribut    | Tipe Data  | Contoh              |
-| --------   | ---------  | --------            |
-| id         | varchar    | uuid                |
-| idlist     | varchar    | uuid                |
-| deskripsi  | varchar    | Ciwidey merupakan salah satu tempat wisata di kota Bandung |
-| foto       | varchar    | jpg/png             |
+| Atribut    | Tipe Data  |
+| --------   | ---------  |
+| _id        | ObjectId   |
+| board      | ObjectId   | 
+| title      | string     |
 
+### tasks
+
+| Atribut    | Tipe Data  |
+| --------   | ---------  |
+| _id        | ObjectId   |
+| section    | ObjectId   | 
+| title      | string     |
+| content    | string     |
+
+## users
+
+| Atribut    | Tipe Data  |
+| --------   | ---------  |
+| _id        | ObjectId   |
+| username   | string     | 
+| password   | string     |
 
 ## UX Wireframe
-
-* ![1](https://user-images.githubusercontent.com/112877296/197399305-46c8e48e-9e96-49c7-b8ff-27ea8724fb58.jpeg)
-
-* ![2](https://user-images.githubusercontent.com/112877296/197399256-63e2667d-4c3e-4819-87b2-462bd98773ce.jpeg)
-
-
+## Link YT Video Promosi Aplikasi
+* https://youtu.be/5cymWvo9lPI
 
